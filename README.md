@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Thomyse
+- 👀 Développeur du bot CosmoMOD 
+- 🌱 Developpeur Python, JS
+- 📫 Me contacter: contact@thomyse.fr
